@@ -5,8 +5,8 @@ from selenium.webdriver.common.keys import Keys
 
 PROMISED_DOWN = 20
 PROMISED_UP = 10
-MAIL = "minniethepuf@gmail.com"
-PASSWORD = "yasemin1"
+MAIL = ""
+PASSWORD = ""
 
 class InternetSpeedTwitterBot:
     def __init__(self):
